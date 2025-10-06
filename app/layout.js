@@ -1,21 +1,6 @@
 import "./globals.css";
 import "./fanta.css";
 
-import { Eczar, Grenze } from "next/font/google";
-
-const eczar = Eczar({
-  subsets: ["latin"],
-  weight: ["400", "500", "600", "700", "800"],
-  variable: "--font-eczar",
-});
-
-const grenze = Grenze({
-  subsets: ["latin"],
-  weight: ["100", "200", "300", "400", "500", "600", "700", "800", "900"],
-  style: ["normal", "italic"],
-  variable: "--font-grenze",
-});
-
 import Head from "./head";
 import Link from "next/link";
 import Cart from "@/components/Cart";
@@ -30,7 +15,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <ProductsProvider>
-      <html lang="en" className={`${eczar.variable} ${grenze.variable}`}>
+      <html lang="en">
         <Head />
         <body>
           <div id="portal" />

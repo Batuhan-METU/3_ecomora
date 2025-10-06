@@ -9,7 +9,7 @@ export default function FaqPage() {
           <strong>Q: How long does it take for my order to be shipped?</strong>
         </summary>
         <p>
-          A: Orders are typically shipped within 1–3 business days after
+          A: Orders are typically shipped within 1-3 business days after
           confirmation. You will receive an email notification once your order
           has been handed to the courier.
         </p>
@@ -65,7 +65,7 @@ export default function FaqPage() {
         </summary>
         <p>
           A: Yes. All payments are processed over HTTPS and handled by trusted
-          payment gateways (for example Stripe), ensuring that your card details
+          payment gateways -for example Stripe-, ensuring that your card details
           are encrypted and never stored on our servers.
         </p>
       </details>
