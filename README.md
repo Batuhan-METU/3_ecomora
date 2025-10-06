@@ -1,8 +1,8 @@
-<h1 align="center">🛍️ Modern E-Commerce Web App-The Ecomora (NextJS + Full Stack + Stripe) 🛍️</h1>
+<h1 align="center">🛍️ Modern E-Commerce Web App-The Ecomora (NextJS + Stripe) 🛍️</h1>
 
 =>This is a **full-stack e-commerce web application** built with **NextJS**.  
 =>It allows users to browse products, manage a shopping cart, and place orders.  
-=>Includes a built-in backend for product, user, and order management.
+=>Includes a **built-in backend** for product, user, and order management.
 
 ---
 
@@ -20,9 +20,9 @@
 
 📂 Project Structure
 
-**/app** or **/pages**     → **NextJS Routing** (frontend + API routes)  
+**/app & /pages**     → **NextJS Routing** (frontend + API routes)  
 **/components**            → Reusable **UI** components  
-**/lib** or **/services**  → **Backend logic**, database handlers, auth, etc.  
+**/lib & /services**  → **Backend logic**, database handlers, auth, etc.  
 **/styles**                → **FantaCSS** & Custom CSS  
 **/public**                → Static Assets (images, icons, etc.)  
 **/utils**                 → Helpers, Constants  
@@ -49,15 +49,15 @@ that provides a complete shopping experience — from product browsing to order 
 
 🌐 Live App
 
-You can access the live app via --> <a href = "">App</a> 🚀🚀
+You can access the **live app** via --> <a href = "main.d87exegvwzy9z.amplifyapp.com/">The Ecomora!</a> 🚀🚀
 
 ---
 
 📌 Notes
 
-- ✅ Backend is integrated using NextJS API routes (serverless functions)  
-- 🔐 Includes basic authentication and route protection  
-- 🧪 Future plans: Payment integration (e.g. Stripe), product reviews, and order tracking  
+- ✅ Backend is integrated using **NextJS API routes**   
+- 🔐 Includes **basic authentication and route protection**  
+- 🧪 Future plans: **Payment integration (e.g. Stripe)**, product reviews, and order tracking  
 
 ---
 
