@@ -3,7 +3,19 @@ import Products from "@/components/Products";
 
 export async function getProducts() {
   const baseURL = process.env.NEXT_PUBLIC_BASE_URL;
+
+  if (!baseURL) {
+    console.error("NEXT_PUBLIC_BASE_URL is not set");
+    return [];
+  }
+
   const response = await fetch(baseURL + "/api/products");
+
+  if (!response.ok) {
+    console.error("API fetch failed:", await response.text());
+    return [];
+  }
+
   const products = await response.json();
   return products;
 }

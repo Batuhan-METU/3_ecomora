@@ -1,9 +1,9 @@
 export default function FaqPage() {
   return (
     <section className="faq-section">
-      <h2>Frequently Asked Questions (FAQ)</h2>
+      <h2>Frequently Asked Questions -FAQ-</h2>
       <hr />
-      <h4>!-- Orders & Products --</h4>
+      <h4>Orders & Products</h4>
       <details>
         <summary>
           <strong>Q: How long does it take for my order to be shipped?</strong>
@@ -20,9 +20,9 @@ export default function FaqPage() {
           <strong>Q: What happens if a product is out of stock?</strong>
         </summary>
         <p>
-          A: If a product is out of stock you can click the “Notify Me” button
-          and leave your email address. We will notify you by email when the
-          item is back in stock.
+          A: If a product is out of stock you can click the &quot;Notify
+          Me&quot; button and leave your email address. We will notify you by
+          email when the item is back in stock.
         </p>
       </details>
 
@@ -36,7 +36,7 @@ export default function FaqPage() {
         </p>
       </details>
 
-      <h4>!-- Payment & Security --</h4>
+      <h4>Payment & Security</h4>
       <details>
         <summary>
           <strong>Q: Which payment methods do you accept?</strong>
@@ -65,12 +65,12 @@ export default function FaqPage() {
         </summary>
         <p>
           A: Yes. All payments are processed over HTTPS and handled by trusted
-          payment gateways -for example Stripe-, ensuring that your card details
-          are encrypted and never stored on our servers.
+          payment gateways — for example Stripe — ensuring that your card
+          details are encrypted and never stored on our servers.
         </p>
       </details>
 
-      <h4>!-- Shipping & Delivery --</h4>
+      <h4>Shipping & Delivery</h4>
       <details>
         <summary>
           <strong>Q: Is shipping free?</strong>
@@ -88,8 +88,8 @@ export default function FaqPage() {
         </summary>
         <p>
           A: You will receive a tracking number by email once your order has
-          shipped. Use that tracking number on the carrier's website to follow
-          your delivery.
+          shipped. Use that tracking number on the carrier&apos;s website to
+          follow your delivery.
         </p>
       </details>
 
@@ -104,7 +104,7 @@ export default function FaqPage() {
         </p>
       </details>
 
-      <h4>!-- Returns & Exchanges --</h4>
+      <h4>Returns & Exchanges</h4>
       <details>
         <summary>
           <strong>Q: How do I return a product?</strong>
@@ -128,7 +128,7 @@ export default function FaqPage() {
         </p>
       </details>
 
-      <h4>!-- Account & General --</h4>
+      <h4>Account & General</h4>
       <details>
         <summary>
           <strong>Q: Can I shop without creating an account?</strong>
@@ -145,8 +145,8 @@ export default function FaqPage() {
           <strong>Q: I forgot my password — how can I reset it?</strong>
         </summary>
         <p>
-          A: Click “Forgot Password” on the sign-in page, enter your email
-          address, and we will send a password reset link. Follow the
+          A: Click &quot;Forgot Password&quot; on the sign-in page, enter your
+          email address, and we will send a password reset link. Follow the
           instructions in the email to set a new password.
         </p>
       </details>
