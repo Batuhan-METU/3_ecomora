@@ -1,4 +1,4 @@
-<h1 align="center">🛍️Modern E-Commerce Web App-The Ecomora (NextJS + Stripe)🛍️</h1>
+<h1 align="center">🛍️Modern E-Commerce Web App-The Ecomora (NextJS + Stripe)</h1>
 
 =>This is a **full-stack e-commerce web application** built with **NextJS**.  
 =>It allows users to browse products, manage a shopping cart, and place orders.  
