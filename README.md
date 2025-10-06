@@ -49,7 +49,7 @@ that provides a complete shopping experience — from product browsing to order 
 
 🌐 Live App
 
-You can access the live app via -->**main.d87exegvwzy9z.amplifyapp.com/** 🚀🚀
+You can access the live app via --> <a>**main.d87exegvwzy9z.amplifyapp.com/**</a> 🚀🚀
 
 ---
 
