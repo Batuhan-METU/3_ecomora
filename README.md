@@ -42,13 +42,14 @@
 
 🎯 Goal
 
-To build a full-stack, scalable, and modern e-commerce web application  
+To build a **full-stack, scalable, and modern e-commerce web application**  
 that provides a complete shopping experience — from product browsing to order management.
 
 ---
 
 🌐 Live App
 
+You can access the live app via -->**main.d87exegvwzy9z.amplifyapp.com/** 🚀🚀
 
 ---
 
